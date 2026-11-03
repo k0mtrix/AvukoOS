@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "nom": "Tong",
+  "sana": "2026-11-02",
+  "editions": {
+    "desktop": {
+      "nom": "AvukoOS Desktop",
+      "fayl": "avukoos-desktop-1.0-amd64.hybrid.iso",
+      "url": "https://os.avuko.uz/yuklab/avukoos-desktop-1.0-amd64.hybrid.iso",
+      "hajm": 1466499072,
+      "sha256": "1adbdb53636b9cef571edc6294e11315461a6afde5cafbd541a1c754263cfb76",
+      "sana": "2026-11-02"
+    },
+    "server": {
+      "nom": "AvukoOS Server",
+      "fayl": "avukoos-server-1.0-amd64.hybrid.iso",
+      "url": "https://os.avuko.uz/yuklab/avukoos-server-1.0-amd64.hybrid.iso",
+      "hajm": 708898816,
+      "sha256": "c53ee7ce6acd7003cc380e2f205643587606003bbb89d7df5a20562868eacce8",
+      "sana": "2026-11-02"
+    }
+  },
+  "desktop_iso": "https://os.avuko.uz/yuklab/avukoos-desktop-1.0-amd64.hybrid.iso",
+  "server_iso": "https://os.avuko.uz/yuklab/avukoos-server-1.0-amd64.hybrid.iso"
+}
