@@ -7,12 +7,14 @@ Rasmiy sayt: **https://os.avuko.uz** · Hamjamiyat: **https://t.me/avuko_chat**
 
 ## Yuklab olish (1.0 "Tong")
 
-ISO fayllar [**Releases**](../../releases/latest) bo'limida:
+ISO fayllar rasmiy saytda joylashgan (to'g'ridan-to'g'ri yuklab oling):
 
-| Nashr | Hajmi | Tavsif |
-|-------|-------|--------|
-| **Desktop (XFCE)** | ~1.4 GB | Uy va kundalik foydalanish uchun ish stoli |
-| **Server** | ~677 MB | Grafik boshqaruv paneli bilan server |
+| Nashr | Hajmi | Yuklab olish |
+|-------|-------|--------------|
+| **Desktop (XFCE)** | ~1.4 GB | [avukoos-desktop-1.0-amd64.hybrid.iso](https://os.avuko.uz/yuklab/avukoos-desktop-1.0-amd64.hybrid.iso) |
+| **Server** | ~677 MB | [avukoos-server-1.0-amd64.hybrid.iso](https://os.avuko.uz/yuklab/avukoos-server-1.0-amd64.hybrid.iso) |
+
+> Havolalar [Releases](../../releases/latest) sahifasida ham bor.
 
 ## Yaxlitlikni tekshirish (SHA256)
 
